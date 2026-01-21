@@ -1,0 +1,23 @@
+{
+  "name": "rent-a-bike",
+  "version": "1.0.0",
+  "description": "SoftUni JS Applications Course Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandraSimeonova/rent-a-bike.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandraSimeonova/rent-a-bike/issues"
+  },
+  "homepage": "https://github.com/AleksandraSimeonova/rent-a-bike#readme",
+  "devDependencies": {
+  }
+}
