@@ -1,8 +1,10 @@
 import page from "./lib/page.js";
+import renderMiddleware from "./middlewares/renderMiddleware.js";
 import catalogView from "./views/catalogView.js";
 import homeview from "./views/homeview.js";
 
-homeview();
+//Set middleWare function
+page(renderMiddleware);
 
 //Set up routes
 page('/', homeview);
