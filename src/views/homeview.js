@@ -24,8 +24,8 @@ const template = () => html`
                         </button>
                     </div>
                     <div class="hidden lg:flex lg:gap-x-12">
-                        <a href="#" class="text-sm/6 font-semibold text-gray-900">Product</a>
-                        <a href="#" class="text-sm/6 font-semibold text-gray-900">Features</a>
+                        <a href="/" class="text-sm/6 font-semibold text-gray-900">Home</a>
+                        <a href="/catalog" class="text-sm/6 font-semibold text-gray-900">Catalog</a>
                         <a href="#" class="text-sm/6 font-semibold text-gray-900">Marketplace</a>
                         <a href="#" class="text-sm/6 font-semibold text-gray-900">Company</a>
                     </div>
@@ -97,7 +97,7 @@ const template = () => html`
                     </div>
                     <div class="text-center">
                         <h1 class="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl">
-                            RENT A BIKE
+                            Rent a BIKE
                         </h1>
                         <p class="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8">
                             Movement is life.

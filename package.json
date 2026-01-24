@@ -23,6 +23,8 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
-    "lit-html": "^3.3.2"
+    "lit-html": "^3.3.2",
+    "page": "^1.11.6",
+    "page.js": "^4.13.3"
   }
 }
